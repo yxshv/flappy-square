@@ -9,6 +9,9 @@ a cool ( actually trash ) game.
 ### How to play ( Why would u even wanna do that? )
 Download it ( Only for windows for now ) from [itch.io](https://kekda-is-cool.itch.io/flappy-square)
 
+#### Controls
+Mouse Left click or space bar or up arrow key.
+
 ### Contributing ( Why would u even wanna do that? )
 feel free to contribute
 
